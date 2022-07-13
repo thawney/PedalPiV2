@@ -1,0 +1,78 @@
+pedalSHIELD is an Arduino Open Source guitar pedal made for guitarists, hackers and programmers. Users can program their own effects in C/C++.
+All info in www.electrosmash.com/pedalshield
+
+reverb, reverberation, guitar, pedal, pedalshield, digital, effect, multi-effect, arduino, due, shield, programmable, open, souce, electrosmash, electro, smash,
+
+
+
+
+
+
+
+
+
+
+47p	5	"C2 C5 C8 C9 C12"
+0.1u	6	"C1 C4 C6 C7 C10 C11"
+100n	2	"C16 C17"
+1u	1	"C13"
+4.7u	1	"C3"
+10u	2	"C14 C15"
+47uF	1	"C18"
+CONN_10pins	1	"CONN1"
+CONN_8pins	5	"CONN2 CONN3 CONN4 CONN5 CONN6"
+1N5817	4	"D1 D2 D3 D4"
+LED	1	"D5"
+Guitar_IN	1	"J1"
+OUTPUT	1	"J2"
+JUMPER	1	"JP1"
+1K	1	"R3"
+4.7K	4	"R5 R9 R10 R21"
+50K	1	"R7"
+100K	12	"R4 R6 R8 R11 R12 R13 R14 R15 R16 R17 R19 R20"
+10M	2	"R1 R2"
+10K	3	"RV2 RV3 RV4"
+500K	1	"RV1"
+SWITCH_3PDT	1	"SW1"
+SWITCH_INV	2	"SW2 SW3"
+3V3 TP	1	"TP1"
+1V6 TP	1	"TP2"
+GND TP	2	"TP3 TP6"
++5V TP	1	"TP4"
+-5V TP	1	"TP5"
+DAC0	1	"TP7"
+DAC1	1	"TP8"
+TL072	2	"U1 U2"
+TC1044	1	"U3"
+
+Lamentablemente, el acceso a este artículo en concreto ha sido bloqueado por las restricciones legales vigentes en ciertos paises.
+Estamos bloqueando tu acceso para impedir que se muestren articulos restringidos. Lamentablemente, puede que a veces
+impidamos que os usuarios accedan a artículos no afectados por dichas rrestricciones debido a las limitaciones....
+
+
+
+
+
+
+Austria
+Belgium
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Luxembourg
+Malta
+Netherlands
+Portugal
+Spain
+Sweden
+United Kingdom
+Sweeden
+Switzerland
+
+
