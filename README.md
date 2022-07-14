@@ -19,7 +19,8 @@ This  [_hat_](https://www.hifiberry.com/blog/what-is-a-raspberry-pi-hat/) has th
 ![Pedal Pi Schematic](http://www.electrosmash.com/images/tech/pedal-pi/pedal_pi_block_diagram.jpg)
 
 - Here is a more detailed photo of just the RaspberryPi Stage.
-![Raspi explanation schemati](https://www.electrosmash.com/images/tech/pedal-pi/pedal-pi-dsp1.png)
+
+![Raspi explanation schematic](http://www.electrosmash.com/images/tech/pedal-pi/pedal-pi-dsp1.png)
 # How to Program it?
 
 The idea is to make it as easy as possible, the examples are programmed in C using the standard  [BCM2835 Libraries](http://www.airspayce.com/mikem/bcm2835/). The Operating System used is  [Raspbian.](https://www.raspberrypi.org/downloads/raspbian/)  All tools and programs are free/open source. In the OFFICIAL forum, there is a topic called  ["How to Start Programming Pedal-Pi"](https://www.electrosmash.com/forum/pedal-pi/202-how-to-start-programming-pedal-pi) with more details (note: this forum is not run or maintained by thawney and is for the original design, all code should still work).
