@@ -1,7 +1,7 @@
 # PedalPi
 Pedal Pi Thawney is based off of Pedal-Pi by electrosmash; a lo-fi programmable guitar pedal that works with the Raspberry Pi ZERO Board. My repository contains all of the information needed to create your own board from scratch unlike Pedal Pi who only share effect code.
 
-![Picture of the Pedal Pi PCB Design](https://github.com/thawney/PedalPi/blob/main/PCB_Files/PCB_Images/PedalPiThawney_PCB_Wip.png?raw=true)
+![Picture of the Pedal Pi PCB Design](https://github.com/thawney/PedalPi/blob/main/PCB_Files/PCB_Images/PedalPiThawney_PCB_Wip.jpg?raw=true)
 
 ## How Is this Repository different to the original Pedal Pi?
 
